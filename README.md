@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bvbble
+- 👀 I’m interested in Roblox.
+- 🌱 I’m want to learn C# and C++
+- 💞️ I’m not looking to collaborate.
+- 📫 Discord: b_vc
