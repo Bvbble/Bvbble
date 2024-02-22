@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bvbble
+- 👋 Hi, I’m @Bvbble!
 - 👀 I’m interested in Roblox and Fortnite Modding.
-- 🌱 I want to learn C#, C++, Lua, and Python
+- 🌱 I want to learn C++ and Python.
 - 💞️ I’m not looking to collaborate.
 - 📫 Discord: b_vc
